@@ -1,8 +1,9 @@
 {
-    "name":    "phpdocumentor/graphviz",
+    "name":    "stereomon/graphviz",
     "type":    "library",
     "license": "MIT",
     "authors": [
+        {"name": "René Klatt", "email": "rene.klatt@gmx.net"},
         {"name": "Mike van Riel", "email": "mike.vanriel@naenius.com"}
     ],
     "require": {
